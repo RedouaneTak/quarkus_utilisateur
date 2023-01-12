@@ -1,0 +1,10 @@
+C:\java\workspaceQuarkus\quarkus_utilisateur\src\main\java\fr\progica\dto\UtilisateurDto.java
+C:\java\workspaceQuarkus\quarkus_utilisateur\src\main\java\fr\progica\repositories\UserRepository.java
+C:\java\workspaceQuarkus\quarkus_utilisateur\src\main\java\fr\progica\security\SecurityTools.java
+C:\java\workspaceQuarkus\quarkus_utilisateur\src\main\java\fr\progica\Validator.java
+C:\java\workspaceQuarkus\quarkus_utilisateur\src\main\java\fr\progica\dto\MailDto.java
+C:\java\workspaceQuarkus\quarkus_utilisateur\src\main\java\fr\progica\endpoints\UserService.java
+C:\java\workspaceQuarkus\quarkus_utilisateur\src\main\java\fr\progica\restclient\MailClient.java
+C:\java\workspaceQuarkus\quarkus_utilisateur\src\main\java\fr\progica\dto\LoginDto.java
+C:\java\workspaceQuarkus\quarkus_utilisateur\src\main\java\fr\progica\ExampleResource.java
+C:\java\workspaceQuarkus\quarkus_utilisateur\src\main\java\fr\progica\entities\UtilisateurEntity.java
